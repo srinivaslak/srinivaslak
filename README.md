@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/srinivaslv" target="blank"><img src="https://img.shields.io/twitter/follow/srinivaslv?logo=twitter&style=for-the-badge" alt="srinivaslv" /></a> </p>
 
-- 🔭 I’m currently working on [A Generic Model To Analyse And Predict Brain Tumor From MRI And CT Medical Images Using Deep Learning](https://github.com/srinivaslak/Predict-BrainTumor.git)
+- 🔭 I’m currently working on [Enhancing Real-Time Surveillance through the Integration of 
+XAI and Cognitive AI](https://github.com/srinivaslak/Predict-BrainTumor.git)
 
 - 🌱 I’m currently learning **Azure Devops,PEGA,AI**
 
